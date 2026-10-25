@@ -22,4 +22,3 @@ streamlit run streamlit_app/app.py
 
 - No Streamlit Cloud o sistema de arquivos é efêmero, então os cadastros ficam no `st.session_state` e podem ser exportados pelo botão "Baixar CSV".
 - O Gradio só executa a função do botão, enquanto o Streamlit roda o script inteiro a cada interação (por isso o uso do `st.form`).
-- `print_gradio_local.jpg` mostra a versão Gradio rodando localmente.

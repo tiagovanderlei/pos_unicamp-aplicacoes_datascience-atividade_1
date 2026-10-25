@@ -2,3 +2,4 @@
 __pycache__/
 .gradio/
 streamlit_app/pacientes.csv
+print_gradio_local.jpg
