@@ -1,0 +1,9 @@
+timestamp,nome,idade,convenio,prioridade,motivo
+2026-10-25 02:15:51,Maria da Silva,34,Unimed,2,Consulta de rotina
+2026-10-25 02:15:53,João Pereira,67,Bradesco Saúde,4,Dor no peito ao subir escadas
+2026-10-25 02:15:54,Ana Souza,8,Particular,3,Febre há 2 dias
+2026-10-25 02:15:55,Carlos Oliveira,45,SulAmérica,1,Retorno com exames
+2026-10-25 02:15:56,Fernanda Lima,29,Outro,5,Corte profundo na mão
+2026-10-25 02:15:58,Roberto Santos,52,Unimed,2,Renovação de receita
+2026-10-25 02:20:44,Beatriz Almeida,41,Bradesco Saúde,3,Enxaqueca frequente há 1 semana
+2026-10-25 03:01:52,Lucas Ferreira,23,Particular,2,Atestado para atividade física
